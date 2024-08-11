@@ -1,8 +1,7 @@
 
 
 # David Zhang
-## Full-Stack Developer | CS Student at NYU
-## Email: davidzhang3210@gmail.com | Portfolio: www.techdavidzhang1.com
+## Full-Stack Developer | CS Student at NYU | Email: davidzhang3210@gmail.com | Portfolio: www.techdavidzhang1.com
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J1MTl2dDZsYmhodDB1azN4YmhnYmRnamw4Z2V1MTluN3RleWYybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kbLkno7sQeJFOlL6vJ/giphy.webp)
 
