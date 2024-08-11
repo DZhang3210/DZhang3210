@@ -1,5 +1,3 @@
-Thank you for checking out my github ![](https://i.pinimg.com/originals/8a/f0/8a/8af08a3556c6e66f5ce88539183efd23.gif)
-
 David Zhang
 Full-Stack Developer | CS Student at NYU
 Email: davidzhang3210@gmail.com | Portfolio: www.techdavidzhang1.com
