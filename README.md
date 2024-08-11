@@ -1,11 +1,14 @@
-👨‍💻 As a Computer Science student at NYU with a targeted graduation date of December 2024, I am immersed in the world of algorithms, system architecture, and full-stack web development. I'm passionate about using my knowledge in React, Node.js, CSS, and NextJS to create software that not only functions efficiently but also prioritizes the user experience.
+David Zhang
+Full-Stack Developer | CS Student at NYU
+Email: davidzhang3210@gmail.com | Portfolio: www.techdavidzhang1.com
 
-🏆 My practical skills have been honed through ambitious projects such as a real-time medical pager system designed to streamline healthcare communications and a voice-activated smart mirror that garnered the NYU Nick Russo Award for engineering excellence.
+Welcome to my GitHub! I’m a passionate full-stack developer with a strong foundation in software engineering, currently pursuing a B.S. in Computer Science at New York University. My projects showcase a blend of modern technologies like Next.js, React, Prisma, and TypeScript, focusing on building scalable, secure, and user-friendly applications.
 
-🚀 In my role as an EE/CS Engineer at Rogue Aerospace, I have contributed to the field of aerospace technology by leading the development of onboard electronics for a NASA competition rocket and innovating payload tracking systems that meet rigorous standards.
+Some of my key projects include:
 
-🎓 Academically, I am maintaining a strong GPA of 3.7 and have furthered my expertise through certifications like AWS Certified Database-Specialty and AWS Certified Cloud Practitioner.
+&Commerce: A fully functional eCommerce platform with secure user authentication and payment processing.
+MagicPrompts: A live-service AI prompt-sharing application with advanced filtering and dynamic UI.
+Unsplash/OfficeVibe Replica: A mobile-responsive interface that replicates the user experience of popular platforms.
+Feel free to explore my repositories, and check out my resume for more details on my experience and skills.
 
-💼 I am now looking to bring my background in developing scalable solutions, my innovative approach to problem-solving, and my ability to collaborate across disciplines to a challenging role in software development.
-
-Specialties: #Python #Java #React #Node.js #FullStackDevelopment #WebDevelopment #SoftwareEngineering #ProblemSolving #Teamwork #Innovation #CloudComputing #NextJs #MongoDB
+Download my resume: David Zhang Resume
