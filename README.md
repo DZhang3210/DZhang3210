@@ -13,5 +13,3 @@ MagicPrompts: A live-service AI prompt-sharing application with advanced filteri
 Unsplash/OfficeVibe Replica: A mobile-responsive interface that replicates the user experience of popular platforms.
 
 Feel free to explore my repositories, and check out my resume for more details on my experience and skills.
-
-Download my resume: David Zhang Resume
