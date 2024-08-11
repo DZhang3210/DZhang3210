@@ -6,10 +6,10 @@ Welcome to my GitHub! I’m a passionate full-stack developer with a strong foun
 
 Some of my key projects include:
 
-&Commerce: A fully functional eCommerce platform with secure user authentication and payment processing.
+**&Commerce**: A fully functional eCommerce platform with secure user authentication and payment processing.
 
-MagicPrompts: A live-service AI prompt-sharing application with advanced filtering and dynamic UI.
+**MagicPrompts**: A live-service AI prompt-sharing application with advanced filtering and dynamic UI.
 
-Unsplash/OfficeVibe Replica: A mobile-responsive interface that replicates the user experience of popular platforms.
+**Unsplash/OfficeVibe Replica**: A mobile-responsive interface that replicates the user experience of popular platforms.
 
 Feel free to explore my repositories, and check out my resume for more details on my experience and skills.
